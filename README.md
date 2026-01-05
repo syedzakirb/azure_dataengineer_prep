@@ -1,18 +1,8 @@
-# azure_dataengineer_prep
-## Tech Stack
-- Azure Data Factory
-- Azure Data Lake Gen2
-- Databricks (PySpark)
-- Delta Lake
-- Snowflake
+# Azure Data Engineer Prep (SQL + PySpark + Databricks + Snowflake)
 
-## Projects
-1. NYC Taxi Data Pipeline (Batch, Structured)
-2. E-commerce Orders Pipeline (Joins, Aggregations)
-3. Public API Pipeline (JSON, Incremental Loads)
-
-## Focus
-- SQL interview practice
-- PySpark transformations
-- Delta Lake upserts
-- End-to-end Azure Data Engineering pipelines
+Repo-style workspace for interview prep + portfolio projects:
+- SQL practice (incl. Snowflake-friendly SQL)
+- PySpark practice
+- Databricks / Delta Lake patterns
+- 3 end-to-end projects: NYC Taxi, E-commerce, Public API
+- Snowflake DDL + loading scripts
